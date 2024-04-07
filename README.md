@@ -23,7 +23,7 @@ Sound effects
 Background and snake skin (GUI)
 
 Contributors
-No contributors, all projects was done by me (https://github.com/1shushi1)
+No contributors, all projects was done by me (https://github.com/MaksymPakhomovPJAIT)
 
 License
 This project is licensed under the [MIT License](LICENSE).
