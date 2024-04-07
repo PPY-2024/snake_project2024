@@ -1,5 +1,5 @@
 # snake_game
-Overview
+## Overview
 This project is aimed at creating a simple Snake game using Python. 
 The game will be developed following the classic Snake gameplay mechanics, where the player controls a snake to eat food and grow longer, while avoiding collisions with walls and the snake's own body.
 
